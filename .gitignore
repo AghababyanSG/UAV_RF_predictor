@@ -4,4 +4,8 @@
 *.parquet
 *.pickle
 *.txt
+*.avro
+*.dat
+*.feather
+*.pkl
 heil_hitler.ipynb
