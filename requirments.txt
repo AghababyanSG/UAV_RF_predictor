@@ -6,3 +6,4 @@ matplotlib>=3.4.3
 python-csv>=0.0.11
 random2>=1.0.1
 
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
